@@ -1,0 +1,6 @@
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\bin\Debug\journal.exe.config
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\bin\Debug\journal.exe
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\bin\Debug\journal.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\obj\Debug\journal.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\obj\Debug\journal.exe
+C:\Users\owner\Documents\Visual Studio 2017\Projects\journal\journal\obj\Debug\journal.pdb
