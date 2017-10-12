@@ -42,7 +42,7 @@ namespace journal
         }
         public static void PostJournal(string input)//appends the file thought.txt with timestamped string from above
         {
-            using (StreamWriter writer = new StreamWriter("C:\\Users\\owner\\Documents\\creativewriting\\log\\enter.txt", true))//MUST CHANGE TO YOUR PERSONAL .txt FILE YOU CREATE 
+            using (StreamWriter writer = new StreamWriter("INSERT YOUR FILENAME HERE", true))//MUST CHANGE TO YOUR PERSONAL .txt FILE YOU CREATE 
             {
                 writer.WriteLine(input);
             }
